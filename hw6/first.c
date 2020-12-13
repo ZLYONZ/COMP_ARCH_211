@@ -4,6 +4,7 @@
 #include <stdbool.h>
 #include <limits.h>
 
+// Create variables
 int hitCount = 0;
 int missCount = 0;
 int ReadCount = 0;
@@ -13,6 +14,7 @@ unsigned int setBit = 0;
 unsigned int blockBit = 0;
 unsigned int tagBit = 0;
 
+// struct
 typedef struct
 {
     int lineValid;

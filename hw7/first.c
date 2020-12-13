@@ -3,6 +3,7 @@
 #include <string.h>
 #include <math.h>
 
+// struct
 struct Directive
 {
     char gate[17];
